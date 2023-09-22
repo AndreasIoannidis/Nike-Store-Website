@@ -1,8 +1,22 @@
-# React + Vite
+Key Contributions:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Front-end Development: Led the entire front-end development process, from conceptualization to deployment, ensuring a polished and visually appealing user interface.
 
-Currently, two official plugins are available:
+Dynamic Product Catalog: Implemented a dynamic product catalog that allowed users to seamlessly explore Nike's diverse product range.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User Authentication: Integrated user authentication functionality, enabling customers to create accounts, log in, and securely save their preferences and orders.
+
+Responsive Design: Ensured that the website provided an exceptional user experience across all devices, from mobile phones to desktops, through responsive design principles.
+
+E-commerce Features: Developed a comprehensive shopping cart system with integrated payment processing, streamlining the shopping experience for customers.
+
+Tailwind CSS Styling: Utilized Tailwind CSS to maintain a consistent and visually appealing design language that aligned with Nike's brand aesthetics.
+
+React Component Architecture: Employed React's component-based architecture to create modular and maintainable code, facilitating future scalability.
+
+Technologies Used:
+
+React
+Tailwind CSS
+JavaScript
+Git and GitHub
